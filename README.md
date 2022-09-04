@@ -16,13 +16,6 @@ Meetings are just one click away with EasyMeets
 App will be visible at [http://localhost:3000/](http://localhost:3000/)
 
 
-## Brief Overview
-
-- In the listen option, a user logs in with Spotify and clicks a picture. The emotion is detected and songs are recommended based on the emotion and Spotify listening patterns.
-
-- In the focus option, a user has options to choose from nature themed audio-video relaxing effects and also a guided box-breathing feature.
-
-
 ## Technologies Used
 
 - ReactJS
